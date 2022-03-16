@@ -1,0 +1,64 @@
+.container{
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+.logo{
+    width: 100px;
+    height: 50px;
+}
+.top-carousel-bg{
+    background-image: url(background/biography-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.carousel-inner{
+    padding: 20px;
+}
+.see-all{
+    text-decoration: none;
+    color: goldenrod;
+    font-weight: 700;
+}
+.card-footer{
+    text-align: center;
+    border: none;
+    background-color: white;
+
+}
+.card-body{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 8px lightgrey;
+    border-radius: 5px;
+}
+#categories h2{
+    text-align: center;
+}
+.categories img{
+    width: 100%;
+}
+
+.cat-items-1 img{
+    margin: 20px;
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 20px lightgrey;
+}
+.bag{
+    padding-right: 150px;
+}
+#contact-us h2, h6 {
+    text-align: center;
+}
+.contact-us-details{
+    text-align: center;
+    margin-top: 100px;
+}
+.box-1, .box-2{
+    border-right: 1px solid lightgrey;
+}
+footer{
+    text-align: center;
+}
